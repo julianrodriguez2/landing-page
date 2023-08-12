@@ -1,0 +1,39 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header-container {
+    background-color: #1f2937;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.header h3 {
+    font-size: 24px;
+    color: #f9faf8;
+}
+.text-container1 h1 {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+button {
+    background-color: #3882F6;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+.container2 h2{
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+}
+.container3 {
+    background-color: #E5E7EB;
+}
+.container3 p {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+.container4 {
+    background-color: #3882F6;
+}
