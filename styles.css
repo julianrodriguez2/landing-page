@@ -78,13 +78,21 @@ button {
     font-weight: 800;
     color: #1F2937;
 }
+
 .container3 {
     background-color: #E5E7EB;
+    padding: 6rem 16rem;
+    display: flex;
+    flex-direction: column;
 }
 .container3 p {
     font-size: 36px;
     font-style: italic;
     color: #1f2937;
+}
+.quote {
+    text-align: end;
+    font-weight: bold;
 }
 .container4 {
     background-color: #3882F6;
