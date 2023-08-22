@@ -96,4 +96,15 @@ button {
 }
 .container4 {
     background-color: #3882F6;
+    margin: 6rem;
+    padding: 50px;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.text-container2 {
+    color: white;
 }
